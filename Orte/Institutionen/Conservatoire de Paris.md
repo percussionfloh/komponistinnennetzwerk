@@ -1,6 +1,8 @@
-StudentInnen:
+Student\*innen:
 - [[Marie Jaëll (17.08.1846-04.02.1925)]]
 - [[Thérèse Wartel (02.07.1814-06.11.1865)]]
+- [[Nadia Boulanger (16.11.1887-22.10.1979)]]
+- 
 
 Lehrende:
 - [[Henri Herz]]
