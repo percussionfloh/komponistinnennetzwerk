@@ -12,3 +12,5 @@
 **[[Jean Becker]]
 -  in Lebenserinnerungen einer Komponistin (Le Beau):
 	- ...in Mannheim, wo ich bei Jean Becker eingeführt wurde. Dieser liebenswürdige Meister der Violine zeigte freundliches Interesse für mein Trio und probierte es mit mir. Es gefiel ihm; er fand es "sehr geigenmäßig und männlich komponiert".
+**[[Felix Mendelssohn-Bartholdy (03.02.1809-04.11.1847)]]
+- ...Felix Mendelssohn die polnische Kollegin, von ihrer Darbietung war er allerdings wenig angetan: _„Die Szymanowska wird über Hummel gesetzt. Man hat ihr hübsches Gesicht mit ihrem nicht hübschen Spiel verwechselt“_
