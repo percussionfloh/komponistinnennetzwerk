@@ -1,0 +1,4 @@
+- Mutter von [[Henriëtte Hilda Bosmans (06.12.1895-02.07.1952)]]
+- Frau von [[Henri Bosmans (1856–1896)]]
+- Klavierlehrerin im [[Konservatorium von Amsterdam (Institution)]]
+- 

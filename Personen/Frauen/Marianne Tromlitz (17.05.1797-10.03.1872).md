@@ -1,0 +1,3 @@
+- Mutter von [[Clara Wieck-Schumann (13. 09.1819-20.05.1896)]]
+- viel versprechende Solistin, die 1817 als Pianistin und Sängerin im Leipziger Gewandhaus aufgetreten war
+- geschieden mit [[Friedrich Wieck]], danach verheiratet mit [[Adolf Bargiel (1783-1841)]]

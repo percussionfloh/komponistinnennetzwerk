@@ -1,0 +1,2 @@
+-  deutscher Klavier- und Gesangspädagoge und Violinist
+- zweiter Mann von [[Marianne Tromlitz (17.05.1797-10.03.1872)]]

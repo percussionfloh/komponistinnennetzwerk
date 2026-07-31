@@ -1,0 +1,1 @@
+war ein deutscher Orchesterdirigent und Komponist, mit engen Verbindungen zunächst zu [[Johannes Brahms]], später zu [[Richard Wagner]]

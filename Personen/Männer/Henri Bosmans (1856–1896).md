@@ -1,0 +1,4 @@
+- Vater von [[Henriëtte Hilda Bosmans (06.12.1895-02.07.1952)]]
+- Solo-Cellist von Royal Concertgebouw Orchestra
+- Mann von [[Sara Bosmans-Benedicts (23.10.1861-12.11.1949)]]
+- 

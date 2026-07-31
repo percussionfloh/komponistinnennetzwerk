@@ -1,0 +1,2 @@
+- deutsche Dichterin 
+- Gattin des Komponisten [[Josef Gabriel Rheinberger  (17.03.1839 - 25.11.1901)]]

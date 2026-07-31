@@ -1,0 +1,2 @@
+- Gatte von [[Franziska von Hoffnaaß (18.10.1831-31.12.1892)]]
+- 
