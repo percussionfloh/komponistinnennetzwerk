@@ -14,3 +14,6 @@
 	- ...in Mannheim, wo ich bei Jean Becker eingeführt wurde. Dieser liebenswürdige Meister der Violine zeigte freundliches Interesse für mein Trio und probierte es mit mir. Es gefiel ihm; er fand es "sehr geigenmäßig und männlich komponiert".
 **[[Felix Mendelssohn-Bartholdy (03.02.1809-04.11.1847)]]
 - ...Felix Mendelssohn die polnische Kollegin, von ihrer Darbietung war er allerdings wenig angetan: _„Die Szymanowska wird über Hummel gesetzt. Man hat ihr hübsches Gesicht mit ihrem nicht hübschen Spiel verwechselt“_
+[[Franz Liszt (22.10.1811-31.07.1886)]]
+-   in Lebenserinnerungen einer Komponistin (Le Beau):
+	-  Alsbald kam Frau Jaëll, die er offenbar schon voher benachrichtigt hatte, daß ich kommen würde, und von der er mir sagte: "Sie haben hier eine Kollegin, die komponiert auch Konzerte; aber wie Weißbier, wie Weißbier!"

@@ -5,6 +5,7 @@
 ## Orte
 
 ## Karriere
+- Lehrer von [[Marija Žilinska]]
 
 ## Sonstiges
 

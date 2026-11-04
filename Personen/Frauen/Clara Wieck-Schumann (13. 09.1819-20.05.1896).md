@@ -11,3 +11,5 @@
 ## Befreundet mit...
 - [[Hermann Levi (07.11.1839-13.05.1900)]]
 - war von [[Franz Liszt (22.10.1811-31.07.1886)]] Klavierspiel begeistert (Quelle: Lebenserinnerungen einer Komponistin, (Le Beau))
+- [[Hans Schmidt (06.09.1854-29.08.1923)]]
+- 

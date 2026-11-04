@@ -13,7 +13,7 @@
 
 ## Befreundet mit…
 - [[Jean Becker]]
-- 
+- [[Marie Jaëll (17.08.1846-04.02.1925)]] (schlechtes Verhältnis von Le Beau aus)
 
 
 Quelle:

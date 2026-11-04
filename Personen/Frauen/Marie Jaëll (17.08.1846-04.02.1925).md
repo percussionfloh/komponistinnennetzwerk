@@ -16,6 +16,7 @@
 
 ## Befreundet mit…
 - [[Franz Liszt (22.10.1811-31.07.1886)]]
+- [[Luise Adolpha Le Beau (25.04.1850-17.07.1927)]] 
 
 
 

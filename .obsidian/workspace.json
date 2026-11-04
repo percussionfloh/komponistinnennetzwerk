@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5ec731605774fa04",
+        "id": "0630a5cda45db123",
         "type": "tabs",
         "children": [
           {
-            "id": "0d322db659dd3fe4",
+            "id": "2683e73e9a64352a",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "git zeugs/Unbenannt.base",
-                "viewName": "Tabelle"
+                "file": "Personen/Frauen/Lūcija Garūta (14.05.1902-15.02.1977).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Unbenannt"
+              "icon": "lucide-file",
+              "title": "Lūcija Garūta (14.05.1902-15.02.1977)"
             }
           }
         ]
@@ -195,9 +196,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0d322db659dd3fe4",
+  "active": "2683e73e9a64352a",
   "lastOpenFiles": [
-    "Unbenannt.base",
-    "Personen/Frauen/Clara Faisst (22.06.1872-22.11.1948).md"
+    "Paul Dukas.md",
+    "Personen/Frauen/Lūcija Garūta (14.05.1902-15.02.1977).md",
+    "Isidor Philipp.md",
+    "Alfred Cortot.md",
+    "Jāzeps Vītols.md",
+    "Sergey Prokofiev.md",
+    "Julius Johannsen.md",
+    "Nikolai Rimski-Korsakow.md",
+    "Lidija Gomane-Dombrovska.md",
+    "Hans Schmidt (06.09.1854-29.08.1923).md",
+    "Orte/Institutionen/Lettisches Konservatorium.md",
+    "Arendburg.md",
+    "Personen/Frauen/Clara Wieck-Schumann (13. 09.1819-20.05.1896).md",
+    "Personen/Frauen/Luise Adolpha Le Beau (25.04.1850-17.07.1927).md",
+    "Fellin.md",
+    "Riga.md",
+    "Marija Žilinska.md",
+    "Orte/Berlin (Ort).md",
+    "Leipzig.md",
+    "Personen/Männer/Anton Rubinstein (11.1829-11.1894).md",
+    "Personen/Frauen/Marianne Martines (04.05.1744-13.12.1812).md",
+    "Personen/Frauen/Unbenannt 1.md",
+    "Personen/Frauen/Fanny Hensel-Mendelssohn (14.11.1805-14.05.1847).md",
+    "Personen/Frauen/Anna Katharine Josepha Kanzler (15.07.1778-05.05.1843).md",
+    "Wall of shame.md",
+    "Orte/Institutionen/Yehudi Menuhin School (Institution).md",
+    "git zeugs/Unbenannt.base",
+    "Unbenannt.base"
   ]
 }
