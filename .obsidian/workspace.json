@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0630a5cda45db123",
+        "id": "893d6d398805cab5",
         "type": "tabs",
         "children": [
           {
-            "id": "2683e73e9a64352a",
+            "id": "fa364346eeb55562",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personen/Frauen/Lūcija Garūta (14.05.1902-15.02.1977).md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lūcija Garūta (14.05.1902-15.02.1977)"
+              "title": "Neuer Tab"
             }
           }
         ]
@@ -196,34 +192,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2683e73e9a64352a",
+  "active": "e1667f2fc3b9c1dc",
   "lastOpenFiles": [
-    "Paul Dukas.md",
+    "Unbenannt.canvas",
+    "Personen/Männer/Sergey Prokofiev.md",
+    "Personen/Männer/Nikolai Rimski-Korsakow.md",
+    "Personen/Frauen/Lidija Gomane-Dombrovska.md",
+    "Personen/Männer/Julius Johannsen.md",
+    "Personen/Männer/Isidor Philipp.md",
+    "Personen/Männer/Alfred Cortot.md",
+    "Orte/Fellin.md",
+    "Orte/Arendburg.md",
     "Personen/Frauen/Lūcija Garūta (14.05.1902-15.02.1977).md",
-    "Isidor Philipp.md",
-    "Alfred Cortot.md",
-    "Jāzeps Vītols.md",
-    "Sergey Prokofiev.md",
-    "Julius Johannsen.md",
-    "Nikolai Rimski-Korsakow.md",
-    "Lidija Gomane-Dombrovska.md",
-    "Hans Schmidt (06.09.1854-29.08.1923).md",
+    "Personen/Männer/Paul Dukas.md",
+    "Personen/Männer/Jāzeps Vītols.md",
+    "Personen/Männer/Hans Schmidt (06.09.1854-29.08.1923).md",
     "Orte/Institutionen/Lettisches Konservatorium.md",
-    "Arendburg.md",
     "Personen/Frauen/Clara Wieck-Schumann (13. 09.1819-20.05.1896).md",
     "Personen/Frauen/Luise Adolpha Le Beau (25.04.1850-17.07.1927).md",
-    "Fellin.md",
-    "Riga.md",
-    "Marija Žilinska.md",
+    "Orte/Riga.md",
+    "Personen/Frauen/Marija Žilinska.md",
     "Orte/Berlin (Ort).md",
-    "Leipzig.md",
+    "Orte/Leipzig.md",
     "Personen/Männer/Anton Rubinstein (11.1829-11.1894).md",
     "Personen/Frauen/Marianne Martines (04.05.1744-13.12.1812).md",
     "Personen/Frauen/Unbenannt 1.md",
     "Personen/Frauen/Fanny Hensel-Mendelssohn (14.11.1805-14.05.1847).md",
     "Personen/Frauen/Anna Katharine Josepha Kanzler (15.07.1778-05.05.1843).md",
     "Wall of shame.md",
-    "Orte/Institutionen/Yehudi Menuhin School (Institution).md",
     "git zeugs/Unbenannt.base",
     "Unbenannt.base"
   ]
